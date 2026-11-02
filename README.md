@@ -48,7 +48,7 @@ Further operational data would be needed to investigate the reasons behind the o
 | `01_data_quality.sql` | Check order counts, statuses, identifiers, and missing delivery dates |
 | `02_delivery_overview.sql` | Calculate overall delay metrics and delay-duration distribution |
 | `03_regional_analysis.sql` | Compare delivery performance across customer states |
-| `05_monthly_analysis.sql` | Examine monthly delivery volume and late-delivery rates |
+| `04_monthly_analysis.sql` | Examine monthly delivery volume and late-delivery rates |
 
 ## Data Source and Reproduction
 
